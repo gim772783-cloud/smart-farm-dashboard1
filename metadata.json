@@ -1,0 +1,8 @@
+{
+  "name": "Remix 초록 성장 일지 대시보드",
+  "description": "식물 성장 과정 추적, 위치별(A/B/C) 성장 비교, 관찰 일지 및 사진 뷰어 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
