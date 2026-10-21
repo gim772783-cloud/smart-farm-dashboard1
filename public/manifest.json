@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "홍천농고 스마트 식물 생육 대시보드",
+  "short_name": "초록성장일지",
+  "description": "홍천농업고등학교 식물 생육 추적 및 구역별(A·B·C) 환경 비교 분석 스마트 웹앱",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f5fa",
+  "theme_color": "#059669",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
